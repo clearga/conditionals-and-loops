@@ -1,14 +1,5 @@
 # SEI
 
-<hr>
-Title: Conditionals and Loops<br>
-Type: Lesson<br>
-Duration: 1.5 hrs<br>
-Creator: GA Instruction Team <br>
-Updated by: Alex White <br>
-Topics: Intro to Conditionals & Loops <br>
-<hr>
-
 # But first! 
 Some quick but important notes on [Code Quality](https://git.generalassemb.ly/sf-sei-3/code-quality)
 
