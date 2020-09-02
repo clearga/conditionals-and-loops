@@ -1,9 +1,4 @@
-# SEI
-
-# But first! 
-Some quick but important notes on [Code Quality](https://git.generalassemb.ly/sf-sei-3/code-quality)
-
-# Intro to Conditionals & Loops
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Conditionals & Loops
 
 ### Lesson Objectives
 _After this lesson, students will be able to:_
