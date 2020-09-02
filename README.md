@@ -371,7 +371,7 @@ const x = false
 const y = false
 
 x || y
-=> true
+=> false
 ```
 
 
