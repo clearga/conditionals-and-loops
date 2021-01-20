@@ -419,7 +419,7 @@ The curly braces denote a `block`. The `block` will run if the `BOOLEAN EXPRESSI
 **Example**
 
 ```js
-constnumber = 10;
+const number = 10;
 
 if (number === 10){
   console.log("The number is 10!")
@@ -459,7 +459,7 @@ if (input === "Kermit") {
 _Numbers as conditionals_
 
 ```js
-constage = 21;
+const age = 21;
 
 if (age >= 21) {
     console.log ('You are allowed to buy beer');
